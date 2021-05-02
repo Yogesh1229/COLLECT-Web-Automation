@@ -1,0 +1,54 @@
+﻿- Validate Account Signup Page Functions Correctly
+
+- - Test Class Name: WhenUserIsOnAccountSignupPageActions
+
+POSITIVE SCENARIOS:
+
+- - - Sign Up Page Buttons Work Correctly [Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserClickOnSignInWithGoogleButtonThenUserIsNavigatedToNewWindowUserSigninPage
+	COLLECT_Account_Signup_Actions_MainBody_02_WhenUserClickOnDialCodeLinkThenAllCountryListShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_03_WhenUserClickOnDialCodeLinkThenUserShouldBeAbleToSelectAnyOneCountry
+	COLLECT_Account_Signup_Actions_MainBody_04_WhenAllRequiredFieldsAreFilledThenSignUpSucceedsAndUserRedirectedToFormsPage
+
+- - - Link Actions [Region Name]
+
+- - - - Terms of Service Link Work Correctly [Sub-Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserClicksOnTermsOfServicesLinkThenLicenseAgreementPDFOpenedInNewTab
+
+- - - - Privacy Policy Link Work Correctly [Sub-Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserClicksOnPrivacyPolicyLinkThenPrivacyPolicyPDFOpenedInNewTab
+
+- - - - Login Link Work Correctly [Sub-Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserNavigatedToLogonPageSuccessfully
+
+- - - - Much more Link Work Correctly [Sub-Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserClicksOnMuchMoreLinkThenUserNavigatedToMobileDataCollectionAppPage
+
+- - - Link Actions [Region Name]
+	
+NEGATIVE SCENARIOS:
+
+- - - Fields Validation [Region Name]
+
+- - - - Empty Field Validation [Sub-Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserAttemptsToSignupWithEmptyUserNameFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_02_WhenUserAttemptsToSignupWithEmptyOrganizationFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_03_WhenUserAttemptsToSignupWithEmptyPhoneNumberFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_04_WhenUserAttemptsToSignupWithEmptyEmailFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_05_WhenUserAttemptsToSignupWithEmptyPasswordFieldThenErrorMessageShouldBeDisplayed
+
+- - - - Invalid Fields Validation [Sub-Region Name]
+
+	COLLECT_Account_Signup_Actions_MainBody_01_WhenUserAttemptsToSignupWithInvalidUserNameFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_02_WhenUserAttemptsToSignupWithInvalidOrganizationNameFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_03_WhenUserAttemptsToSignupWithInvalidPhoneNumberFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_04_WhenUserAttemptsToSignupWithInvalidEmailFieldThenErrorMessageShouldBeDisplayed
+	COLLECT_Account_Signup_Actions_MainBody_05_WhenUserAttemptsToSignupWithInvalidPasswordFieldThenErrorMessageShouldBeDisplayed
+
+

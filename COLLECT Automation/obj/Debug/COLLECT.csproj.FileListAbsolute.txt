@@ -1,0 +1,76 @@
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\App.config
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll.config
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.pdb
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csprojResolveAssemblyReference.cache
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.pdb
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\App.config
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll.config
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.pdb
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.xml
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.xml
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csprojResolveAssemblyReference.cache
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.dll
+D:\Learning Stuff\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.pdb
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\App.config
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll.config
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.pdb
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.xml
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.xml
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csproj.CoreCompileInputs.cache
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csproj.CopyComplete
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.dll
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.pdb
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\App.config
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll.config
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.pdb
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.xml
+E:\Collect\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.xml
+E:\Collect\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csprojAssemblyReference.cache
+E:\Collect\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csproj.CoreCompileInputs.cache
+E:\Collect\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csproj.CopyComplete
+E:\Collect\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.dll
+E:\Collect\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.pdb
+D:\COLLECT\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT.csprojAssemblyReference.cache

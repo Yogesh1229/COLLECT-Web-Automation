@@ -1,0 +1,29 @@
+﻿POSITIVE SCENARIOS:
+
+- Validate Account Login Page Functions Correctly
+
+- - Test Class Name: WhenUserIsOnAccountLoginPageActions
+
+
+- - - Button And Links Works Correctly [Region Name]
+
+	COLLECT_Account_Login_Actions_MainBody_01_WhenBothUserNameAndPasswordFieldsAreFilledInThenLoginSucceeds
+	COLLECT_Account_Login_Actions_MainBody_02_WhenUserClickOnForgotPasswordLinkThenUserShouldBeNavigatedToForgotPasswordPage
+	COLLECT_Account_Login_Actions_MainBody_03_WhenUserClickOnSignupLinkThenUserShouldBeNavigatedToSignupPage
+
+NEGATIVE SCENARIOS:
+
+- - - Fields Validation [Region Name]
+
+- - - - Empty Fields Validation [Sub-Region Name]
+
+	COLLECT_Account_Login_Actions_MainBody_EmptyField_01_WhenUserNameFieldIsEmptyThenLoginFails
+	COLLECT_Account_Login_Actions_MainBody_EmptyField_02_WhenPasswordFieldIsEmptyThenLoginFails
+
+- - - - Invalid Fields Validation [Sub-Region Name]
+
+	COLLECT_Account_Login_Actions_MainBody_InvalidField_01_WhenUserNameFieldIsInvalidThenLoginFails
+	COLLECT_Account_Login_Actions_MainBody_InvalidField_02_WhenPasswordFieldIsInvalidThenLoginFails
+
+yg
+

@@ -1,0 +1,17 @@
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll.config
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\COLLECT Automation.pdb
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\bin\Debug\WebDriver.Support.xml
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.csprojResolveAssemblyReference.cache
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.dll
+c:\users\e5543386\documents\visual studio 2017\Projects\COLLECT Web Automation\COLLECT Automation\obj\Debug\COLLECT Automation.pdb
